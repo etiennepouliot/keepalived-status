@@ -17,7 +17,7 @@ Instance I_haproxy2:
     10.10.150.30 is on this host (Expected) 
 Instance I_haproxy3:
     10.10.150.10 is on this host (Expected)
-```    
+  
     
 keepalived-status.py  --help
 usage: keepalived-status [-h] [--file CONF_PATH] [--no-config-test]
@@ -35,4 +35,5 @@ optional arguments:
   --no-status-test, -s  Disable status test
   --verbose, -v         verbose
   --priority_master PRIORITY_MASTER, -p PRIORITY_MASTER
-                        value at wich ips should currently be master
+                        value at wich ips should currently be master
+```
