@@ -1,6 +1,6 @@
 # keepalived-status
 
-One of the annoying think with keepalived it's there is no easy way to tell wich instance or ip is currently on this server.
+One of the annoying thing with keepalived it's there is no easy way to tell wich instance or ip is currently on this server.
 
 Keepalived-status.py try to solve that.
 
